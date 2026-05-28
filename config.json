@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderdalidate",
+        "uuid": 26471896,
+        "checksum": "0sso32"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
